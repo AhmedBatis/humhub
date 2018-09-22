@@ -17,13 +17,13 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Guest mode not active, please login first.' => '',
-    'Login required for this section.' => '',
-    'You are not permitted to access this section.' => '',
-    'You need admin permissions to access this section.' => '',
-    'Your user account has not been approved yet, please try again later or contact a network administrator.' => '',
-    'Your user account is inactive, please login with an active account or contact a network administrator.' => '',
-    '<strong>Login</strong> required' => 'يجب عليك <strong>تسجيل الدخول</strong> ',
-    'An internal server error occurred.' => 'حدث خطأ داخلي في الخادم',
-    'You are not allowed to perform this action.' => 'غير مسموح لك بتنفيذ هذا الإجراء.',
+'Guest mode not active, please login first.' => 'وضع الزائر غير مفعل، الرجاء تسجيل الدخول.',
+'Login required for this section.' => 'ينبغي تسجيل الدخول لعرض هذا القسم',
+'You are not permitted to access this section.' => 'غير مسموح لك بالوصول لهذا القسم.',
+'You need admin permissions to access this section.' => 'تحتاج لصلاحية مدير للوصول لهذا القسم.',
+'Your user account has not been approved yet, please try again later or contact a network administrator.' => 'لم يتم تفعيل حسابك بعد، الرجاء المحاولة لاحقا أو التواصل مع الإدارة.',
+'Your user account is inactive, please login with an active account or contact a network administrator.' => 'حسابك غير مفعل، الرجاء الدخول عبر حساب مفعل مسبقاً أو قم بالتواصل مع الإدارة.',
+'<strong>Login</strong> required' => '<strong>الدخول</strong> مطلوب',
+'An internal server error occurred.' => 'حصل خطأ داخلي في السيرفر.',
+'You are not allowed to perform this action.' => 'غير مسموح لك بالقيام بهذا الإجراء.',
 ];

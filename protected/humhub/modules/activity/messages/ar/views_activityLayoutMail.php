@@ -17,7 +17,7 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'See online:' => '',
-    'see online' => 'مشاهده على الموقع مباشرة',
-    'via' => 'بواسطة',
+'See online:' => 'المشاهدة أونلاين:',
+'see online' => 'شاهد أونلاين',
+'via' => 'بواسطة',
 ];

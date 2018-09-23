@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '%spaceName% has been archived' => '',
-    '%spaceName% has been unarchived' => '',
-    '%displayName% joined the space %spaceName%' => '%displayName% قام بالإنضمام إلى الباحة %spaceName%',
-    '%displayName% joined this space.' => '%displayName% قام بالإنضمام لهذه الباحة.',
+    '%spaceName% has been archived' => 'تمت أرشفة الساحة %spaceName%',
+'%spaceName% has been unarchived' => 'تمت إزالة أرشفة الساحة %spaceName%',
+'%displayName% joined the space %spaceName%' => '%displayName% قام بالإنضمام للساحة %spaceName%',
+'%displayName% joined this space.' => 'قام %displayName% بالإنضمام لهذه الساحة',
 ];

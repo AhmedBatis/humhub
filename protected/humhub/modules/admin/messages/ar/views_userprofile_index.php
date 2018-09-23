@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Add new category' => '',
-    'Add new field' => '',
-    'Here you can create or edit profile categories and fields.' => '',
-    'Manage profile attributes' => '',
+    'Add new category' => 'إضافة تصنيف جديد',
+    'Add new field' => 'إضافة حقل جديد',
+    'Here you can create or edit profile categories and fields.' => 'يمكنك من هنا إنشاء أوتعديل تصنيفات وحقول الملفات الشخصية.',
+    'Manage profile attributes' => 'إدارة خصال الملف الشخصي',
 ];

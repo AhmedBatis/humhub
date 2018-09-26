@@ -19,5 +19,5 @@
 return [
     'Add new provider' => 'إضافة مزود جديد',
     'Currently no provider active!' => 'ليس هناك مزود نشط حتى الآن!',
-    'Enabled OEmbed providers' => 'مزودات OEmbed النشطة',
+    'Enabled OEmbed providers' => 'مزودات OEmbed المفعلة',
 ];

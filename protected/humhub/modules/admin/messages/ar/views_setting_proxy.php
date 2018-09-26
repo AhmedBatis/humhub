@@ -1,4 +1,4 @@
 <?php
 return array (
-  'Save' => 'حفظ',
+    'Save' => 'حفظ',
 );

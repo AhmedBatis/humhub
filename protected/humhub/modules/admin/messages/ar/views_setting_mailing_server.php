@@ -1,5 +1,5 @@
 <?php
 return array (
-  'SMTP Options' => '',
-  'Save' => 'حفظ',
+    'SMTP Options' => 'إعدادات SMTP',
+    'Save' => 'حفظ',
 );

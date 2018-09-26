@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Actions' => '',
-    'Add new user' => '',
-    'Users' => '',
-    'Overview' => 'نظرة شاملة',
-    'Send invite' => 'ارسال دعوة',
+    'Actions' => 'إجراءات',
+    'Add new user' => 'إضافة مستخدم جديد',
+    'Users' => 'المستخدمين',
+    'Overview' => 'نظرة عامة',
+    'Send invite' => 'إرسال دعوة',
     'Settings' => 'الإعدادات',
 ];

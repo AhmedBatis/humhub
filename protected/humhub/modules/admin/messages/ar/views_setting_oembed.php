@@ -17,7 +17,7 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Add new provider' => '',
-    'Currently no provider active!' => '',
-    'Enabled OEmbed providers' => '',
+    'Add new provider' => 'إضافة مزود جديد',
+    'Currently no provider active!' => 'ليس هناك مزود نشط حتى الآن!',
+    'Enabled OEmbed providers' => 'مزودات OEmbed النشطة',
 ];

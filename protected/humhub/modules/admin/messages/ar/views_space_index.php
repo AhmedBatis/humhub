@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Manage</strong> spaces' => '',
-    'Here you can define your default settings for new spaces. These settings can be overwritten for each individual space.' => '',
-    'This overview contains a list of each space with actions to view, edit and delete spaces.' => '',
-    'Overview' => 'نظرة شاملة',
+    '<strong>Manage</strong> spaces' => '<strong>إدارة</strong> الساحات',
+    'Here you can define your default settings for new spaces. These settings can be overwritten for each individual space.' => 'من هنا يمكنك تعيين الإعدادات الإفتراضية لأي ساحة يتم إنشاءها حديثا. كما يمكن التعديل على هذه الإعدادات لاحقا لكل ساحة بشكل مستقل.',
+    'This overview contains a list of each space with actions to view, edit and delete spaces.' => 'تحتوي هذه الصفحة على قائمة كل الساحات المتاحة مع إجراءاتها من عرض، وتعديل، وحذف لأي ساحة.',
+    'Overview' => 'نظرة عامة',
     'Settings' => 'الإعدادات',
-    'Spaces' => 'الباحات',
+    'Spaces' => 'الساحات',
 ];

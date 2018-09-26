@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Checking HumHub software prerequisites.' => '',
-    'Re-Run tests' => '',
+    'Checking HumHub software prerequisites.' => 'إختبار متطلبات نظام HumHub.',
+    'Re-Run tests' => 'إعادة الإختبار',
 ];

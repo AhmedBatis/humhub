@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'HumHub is currently in debug mode. Disable it when running on production!' => '',
-    'See installation manual for more details.' => '',
-    'Currently installed version: %currentVersion%' => 'النسخة الحالية: %currentVersion%',
-    'Licences' => 'الرخص',
-    'There is a new update available! (Latest version: %version%)' => 'يوجد تحديث جديد! (النسخة الأحدث: %version%  )',
-    'This HumHub installation is up to date!' => 'نسخة HumHub هذه هي الأحدث. ',
+    'HumHub is currently in debug mode. Disable it when running on production!' => 'يعمل هم-هوب الآن في وضع تصحيح الأخطاء. الرجاء تعطيل هذا الوضع عند العمل على وضع النسخة حية.',
+    'See installation manual for more details.' => 'انظر دليل التثبيت لتفاصيل أكثر.',
+    'Currently installed version: %currentVersion%' => 'النسخة المثبتة حالياً: %currentVersion%',
+    'Licences' => 'التراخيص',
+    'There is a new update available! (Latest version: %version%)' => 'هناك تحديث جديد متوفر! (النسخة الأخير: %version%)',
+    'This HumHub installation is up to date!' => 'هذا التنصيب من هم-هوب هو الإصدار الأحدث!',
 ];

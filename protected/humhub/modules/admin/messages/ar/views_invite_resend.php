@@ -17,5 +17,5 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Send invitation email again?' => '',
+    'Send invitation email again?' => 'إرسال دعوة البريد الإلكتروني مرة أخرى؟',
 ];

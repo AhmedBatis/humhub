@@ -17,14 +17,14 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Enable module...' => '',
-    '<strong>Modules</strong> directory' => 'مجلد <strong>الموديولات</strong>',
-    'Are you sure? *ALL* module data will be lost!' => 'هل انت متأكد؟ جميع المعلومات الخاصة بالموديولات سيتم حذفها!',
-    'Are you sure? *ALL* module related data and files will be lost!' => 'هل أنت متأكد؟ جميع المعلومات والملفات الخاصة بالموديولات سيتم حذفها!',
-    'Configure' => 'إعدادات',
-    'Disable' => 'إلغاء التفعيل',
+    'Enable module...' => 'تفعيل الموديول...',
+    '<strong>Modules</strong> directory' => '<strong>فهرس</strong> الموديولات',
+    'Are you sure? *ALL* module data will be lost!' => 'هل أنت متأكد من هذا الإجراء؟ ستفقد *كل* بيانات الموديول!',
+    'Are you sure? *ALL* module related data and files will be lost!' => 'هل أنت متأكد من هذا الإجراء؟ *كل* بيانات وملفات الموديول المتعلقة سيتم حذفها!',
+    'Configure' => 'الضبط',
+    'Disable' => 'تعطيل',
     'Enable' => 'تفعيل',
-    'More info' => 'معلومات',
-    'Set as default' => 'تحديد كوصع قياسي',
-    'Uninstall' => 'إزالة تنصيب',
+    'More info' => 'معلومات أكثر',
+    'Set as default' => 'تعيين كافتراضي',
+    'Uninstall' => 'إلغاء التثبيت',
 ];

@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Users can be assigned to different groups (e.g. teams, departments etc.) with specific standard spaces, group managers and permissions.' => '',
-    'Create new group' => 'بدء مجموعة جديدة',
+    'Users can be assigned to different groups (e.g. teams, departments etc.) with specific standard spaces, group managers and permissions.' => 'يمكن ضم المستخدمين لمجموعات مختلفة (على سبيل المثال: فريق، قسم)، وبصلاحيات ومدراء مجموعة وساحات محددة.',
+    'Create new group' => 'إنشاء مجموعة جديدة',
 ];

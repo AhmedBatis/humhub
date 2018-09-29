@@ -1,13 +1,13 @@
 <?php
 return array (
-  '<strong>Modules</strong> directory' => 'مجلد <strong>الموديولات</strong>',
-  'Buy (%price%)' => '',
-  'Disclaimer' => '',
-  'Install' => '',
-  'Installing module...' => '',
-  'Latest compatible version:' => '',
-  'Latest version:' => '',
-  'Licence Key:' => '',
-  'More info' => 'معلومات',
-  'No compatible module version found!' => 'لا توجد نسخة مناسبة للموديول!',
+    '<strong>Modules</strong> directory' => '<strong>فهرس</strong> الموديولات',
+    'Buy (%price%)' => 'السعر (%price%)',
+    'Disclaimer' => 'إخلاء مسؤولية',
+    'Install' => 'تثبيت',
+    'Installing module...' => 'تثبيت الموديول...',
+    'Latest compatible version:' => 'آخر نسخة متوافقة:',
+    'Latest version:' => 'آخر نسخة:',
+    'Licence Key:' => 'مفتاح الترخيص:',
+    'More info' => 'معلومات أكثر',
+    'No compatible module version found!' => 'لم يتم العثور على نسخة متوافقة للموديول!',
 );

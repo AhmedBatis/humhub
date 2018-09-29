@@ -1,8 +1,8 @@
 <?php
 return array (
-  '<strong>Modules</strong> directory' => 'مجلد <strong>الموديولات</strong>',
-  'Installed version:' => '',
-  'Latest compatible Version:' => '',
-  'Update' => '',
-  'Updating module...' => '',
+    '<strong>Modules</strong> directory' => '<strong>فهرس</strong> الموديولات',
+    'Installed version:' => 'النسخة المثبتة:',
+    'Latest compatible Version:' => 'آخر نسخة متوافقة:',
+    'Update' => 'تحديث',
+    'Updating module...' => 'تحديث الموديول...',
 );

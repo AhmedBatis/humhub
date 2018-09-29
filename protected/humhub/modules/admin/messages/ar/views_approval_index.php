@@ -17,7 +17,7 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Pending user approvals' => '',
-    'The following list contains all pending sign-ups and invites.' => '',
-    'The following list contains all registered users awaiting an approval.' => '',
+    'Pending user approvals' => 'طلبات المستخدمين المعلقة',
+    'The following list contains all pending sign-ups and invites.' => 'القائمة التالية تحوي كل طلبات التسجيل والدعوات المعلقة.',
+    'The following list contains all registered users awaiting an approval.' => 'القائمة التالية تحوي كل طلبات المستخدمين المسجلين في انتظار الموافقة.',
 ];

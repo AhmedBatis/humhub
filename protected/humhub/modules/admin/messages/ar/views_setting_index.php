@@ -17,13 +17,13 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Confirm</strong> image deletion' => '',
-    'E.g. http://example.com/humhub' => '',
-    'Friendship' => '',
-    'New users will automatically be added to these space(s).' => '',
-    'Wall entry layout' => '',
-    'You\'re using no logo at the moment. Upload your logo now.' => '',
-    'Dashboard' => 'سطح المكتب',
+    '<strong>Confirm</strong> image deletion' => '<strong>تأكيد</strong> حذف الصورة',
+    'E.g. http://example.com/humhub' => 'على سبيل المثال: http:example.com/humhub',
+    'Friendship' => 'الصداقة',
+    'New users will automatically be added to these space(s).' => 'المستخدمون الجدد ستتم إضافتهم لهذه الساحة/الساحات تلقائياً.',
+    'Wall entry layout' => 'أسلوب جدار الكتابة',
+    'You\'re using no logo at the moment. Upload your logo now.' => 'يبدو أنك لا تستخدم شعاراً لشبكتك حالياً، قم برفع الشعار الآن.',
+    'Dashboard' => 'الرئيسية',
     'Delete' => 'حذف',
     'Save' => 'حفظ',
 ];

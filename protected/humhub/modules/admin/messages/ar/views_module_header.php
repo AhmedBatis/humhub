@@ -17,9 +17,9 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Purchases' => '',
+    'Purchases' => 'المشتريات',
     'Available updates' => 'التحديثات المتاحة',
-    'Browse online' => 'استعراض على الشبكة',
-    'Installed' => 'تم التنصيب',
-    'Modules extend the functionality of HumHub. Here you can install and manage modules from the HumHub Marketplace.' => 'الموديولات تزيد من فعالية HumHub, هنا يمكنك تنصيب و صيانة الموديولات من المركز التجاري الخاص بالنظام.',
+    'Browse online' => 'تصفح على النت',
+    'Installed' => 'مثبتة',
+    'Modules extend the functionality of HumHub. Here you can install and manage modules from the HumHub Marketplace.' => 'الموديولات توسع فعالية شبكة هم-هوب. يمكنك من هنا إدارة وثبيت الموديولات من السوق.',
 ];

@@ -22,5 +22,5 @@ return [
     'Last run (hourly):' => 'آخر تنفيذ (بالساعة):',
     'Never' => 'مطلقا',
     'Or Crontab of root user' => 'أو كرون-تاب للمستخدم الروت',
-    'Please make sure following cronjobs are installed:' => 'الرجاء التأكيد أنه تم تثبيت الكرون-جوب التالية:',
+    'Please make sure following cronjobs are installed:' => 'الرجاء التأكد أنه تم تثبيت الكرون-جوب التالية:',
 ];

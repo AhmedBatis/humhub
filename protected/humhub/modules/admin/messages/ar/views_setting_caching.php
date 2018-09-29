@@ -17,5 +17,5 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Save & Flush Caches' => '',
+    'Save & Flush Caches' => 'حفظ وتفريغ ذاكرة الكاش',
 ];

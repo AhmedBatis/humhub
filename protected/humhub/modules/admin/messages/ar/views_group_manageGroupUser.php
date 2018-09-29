@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Add new members...' => '',
-    'No' => '',
-    'Remove from group' => '',
-    'Yes' => '',
+    'Add new members...' => 'إضافة مستخدمين جدد...',
+    'No' => 'لا',
+    'Remove from group' => 'إزالة من المجموعة',
+    'Yes' => 'نعم',
 ];

@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Crontab of user: {user}' => '',
-    'Last run (daily):' => '',
-    'Last run (hourly):' => '',
-    'Never' => '',
-    'Or Crontab of root user' => '',
-    'Please make sure following cronjobs are installed:' => '',
+    'Crontab of user: {user}' => 'كرون-تاب للمستخدم: {user}',
+    'Last run (daily):' => 'آخر تنفيذ (يومي):',
+    'Last run (hourly):' => 'آخر تنفيذ (بالساعة):',
+    'Never' => 'مطلقا',
+    'Or Crontab of root user' => 'أو كرون-تاب للمستخدم الروت',
+    'Please make sure following cronjobs are installed:' => 'الرجاء التأكيد أنه تم تثبيت الكرون-جوب التالية:',
 ];

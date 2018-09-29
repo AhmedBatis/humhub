@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Manage groups' => '',
+    'Manage groups' => 'إدارة المجموعات',
     'Members' => 'الأعضاء',
 ];

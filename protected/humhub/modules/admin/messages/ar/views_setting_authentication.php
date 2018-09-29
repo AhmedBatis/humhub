@@ -17,12 +17,12 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Do not change placeholders like {displayName} if you want them to be automatically filled by the system. To reset the email content fields with the system default, leave them empty.' => '',
-    'Min value is 20 seconds. If not set, session will timeout after 1400 seconds (24 minutes) regardless of activity (default session timeout)' => '',
-    'Only applicable when limited access for non-authenticated users is enabled. Only affects new users.' => '',
-    'Visible for members only' => '',
-    'Visible for members+guests' => '',
+    'Do not change placeholders like {displayName} if you want them to be automatically filled by the system. To reset the email content fields with the system default, leave them empty.' => 'لا تقم بتغيير معين القيمة (placeholders) مثل {displayName} إذا كنت ترغب من النظام تعبئتهم تلقائياً. لتعيين محتوى حقول البريد الإلكتروني تلقائياً من النظام، اترك الحقول فارغة.',
+    'Min value is 20 seconds. If not set, session will timeout after 1400 seconds (24 minutes) regardless of activity (default session timeout)' => 'أقل قيمة هي 20 ثانية. إذا لم يتم تعيين أي قيمة، سيتم تلقائياً إنهاء الجلسة بعد 1400 ثانية (24 دقيقة) بغض النظر عن الفعالية (إنهاء الجلسة افتراضياً).',
+    'Only applicable when limited access for non-authenticated users is enabled. Only affects new users.' => 'قابل للتطبيق فقط عندما يكون الوصول للمستخدمين الغير المصرح مقيد ومفعل، سيؤثر فقط على المستخدمين الجدد.',
+    'Visible for members only' => 'ظاهر للمستخدمين فقط',
+    'Visible for members+guests' => 'ظاهر للمستخدمين والزوار',
     'General' => 'العام',
-    'LDAP' => '@LADP@',
+    'LDAP' => 'LDAP',
     'Save' => 'حفظ',
 ];

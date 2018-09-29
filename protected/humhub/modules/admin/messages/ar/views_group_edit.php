@@ -17,7 +17,7 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Visibility' => '',
+    'Visibility' => 'الظهور',
     'Delete' => 'حذف',
     'Save' => 'حفظ',
 ];

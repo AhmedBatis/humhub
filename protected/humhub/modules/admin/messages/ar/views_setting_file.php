@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Comma separated list. Leave empty to allow all.' => '',
-    'Current Image Library: {currentImageLibrary}' => '',
-    'If not set, height will default to 200px.' => '',
-    'If not set, width will default to 200px.' => '',
-    'PHP reported a maximum of {maxUploadSize} MB' => '',
+    'Comma separated list. Leave empty to allow all.' => 'قائمة بفاصلة للمتعدد. اتركه خالياً لتسمح للجميع.',
+    'Current Image Library: {currentImageLibrary}' => 'مكتبة الصور الحالية: {currentImageLibrary}',
+    'If not set, height will default to 200px.' => 'إذا لم تحدد هذا الخيار، سيتم تعيين الإرتفاع لـ 200 بكسل افتراضياً.',
+    'If not set, width will default to 200px.' => 'إذا لم تحدد هذا الخيار، سيتم تعيين العرض لـ 200 بكسل افتراضياً.',
+    'PHP reported a maximum of {maxUploadSize} MB' => 'أقصى حجم ممكن هو {maxUploadSize} ميقا بايت، حسب تقرير PHP',
     'Save' => 'حفظ',
 ];

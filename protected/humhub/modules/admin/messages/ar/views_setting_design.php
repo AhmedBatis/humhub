@@ -17,11 +17,11 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Alphabetical' => '',
-    'Auto format based on user language - Example: {example}' => '',
-    'Firstname Lastname (e.g. John Doe)' => '',
-    'Fixed format (dd/mm/yyyy) - Example: {example}' => '',
-    'Last visit' => '',
-    'Username (e.g. john)' => '',
+    'Alphabetical' => 'أبجدي',
+    'Auto format based on user language - Example: {example}' => 'تنسيق افتراضي حسب لغة المستخدم - على سبيل المثال: {example}',
+    'Firstname Lastname (e.g. John Doe)' => 'الإسم الأول الإسم الأخير (مثل: John Doe)',
+    'Fixed format (dd/mm/yyyy) - Example: {example}' => 'تنسيق ثابت (dd/mm/yyyy) - على سبيل المثال: {example}',
+    'Last visit' => 'الزيارة الأخيرة',
+    'Username (e.g. john)' => 'إسم المستخدم (مثل: John)',
     'Save' => 'حفظ',
 ];

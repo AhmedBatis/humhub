@@ -17,15 +17,15 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Advanced Settings' => '',
-    'Appearance Settings' => '',
-    'General Settings' => '',
-    'Here you can configurate the registration behaviour and additinal user settings of your social network.' => '',
-    'Here you can configure basic settings of your social network.' => '',
-    'Notification Settings' => '',
-    'These settings refer to advanced topics of your social network.' => '',
-    'These settings refer to the appearance of your social network.' => '',
-    'User Settings' => '',
-    'General' => 'العام',
-    'LDAP' => '@LADP@',
+    'Advanced Settings' => 'إعدادات متقدمة',
+    'Appearance Settings' => 'إعدادات المظهر',
+    'General Settings' => 'إعدادات عامة',
+    'Here you can configurate the registration behaviour and additinal user settings of your social network.' => 'تستطيع ضبط إعدادات نمط التسجيل وإعدادات الأعضاء الأخرى لشبكتك من هنا.',
+    'Here you can configure basic settings of your social network.' => 'تستطيع ضبط الإعدادات الأساسية لشبكتك الإجتماعية من هنا.',
+    'Notification Settings' => 'إعدادات التنبيهات',
+    'These settings refer to advanced topics of your social network.' => 'هذه الإعدادات تختص بمواضيع متقدمة في شبكتك الإجتماعية.',
+    'These settings refer to the appearance of your social network.' => 'هذه الإعدادات تختص بمظهر شبكتك الإجتماعية.',
+    'User Settings' => 'إعدادات المستخدم',
+    'General' => 'عام',
+    'LDAP' => 'LDAP',
 ];

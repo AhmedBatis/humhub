@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Add new space' => '',
-    'Change owner' => '',
-    'Manage members' => '',
-    'Manage modules' => '',
-    'Open space' => '',
-    'Search by name, description, id or owner.' => '',
+    'Add new space' => 'إضافة ساحة جديدة',
+    'Change owner' => 'تغيير المالك',
+    'Manage members' => 'إدارة الأعضاء',
+    'Manage modules' => 'إدارة الموديولات',
+    'Open space' => 'فتح الساحة',
+    'Search by name, description, id or owner.' => 'البحث باستخدام الإسم أو الوصف أو اسم المستخدم أو المالك.',
 ];

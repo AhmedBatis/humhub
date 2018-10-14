@@ -17,16 +17,16 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Access Admin Information' => '',
-    'Can access the \'Administration -> Information\' section.' => '',
-    'Can manage spaces within the \'Administration -> Spaces\' section (create/edit/delete).' => '',
-    'Can manage user- space- and general-settings.' => '',
-    'Can manage users and groups' => '',
-    'Can manage users and user profiles.' => '',
-    'Can manage modules within the \'Administration ->  Modules\' section.' => '',
-    'Manage Groups' => '',
-    'Manage Modules' => '',
-    'Manage Settings' => '',
-    'Manage Spaces' => '',
-    'Manage Users' => '',
+    'Access Admin Information' => 'الوصول لمعلومات المدير',
+    'Can access the \'Administration -> Information\' section.' => 'يستطيع الوصول إلى (لوحة التحكم > الساحات) إنشاء/تعديل/حذف',
+    'Can manage spaces within the \'Administration -> Spaces\' section (create/edit/delete).' => 'يستطيع إدارة الساحات عبر (لوحة التحكم > الساحات) إنشاء/تعديل/حذف',
+    'Can manage user- space- and general-settings.' => 'يستطيع إدارة المستخدم-الساحة- و الإعدادات العامة',
+    'Can manage users and groups' => 'يستطيع إدارة المستخدمين والمجموعات',
+    'Can manage users and user profiles.' => 'يستطيع إدارة المستخدمين وملفات المستخدمين الشخصية',
+    'Can manage modules within the \'Administration ->  Modules\' section.' => 'يستطيع إدارة الموديولات عبر (لوحة التحكم > الموديولات)',
+    'Manage Groups' => 'إدارة المجموعات',
+    'Manage Modules' => 'إدارة الموديولات',
+    'Manage Settings' => 'إدارة الإعدادات',
+    'Manage Spaces' => 'إدارة الساحات',
+    'Manage Users' => 'إدارة المستخدمين',
 ];

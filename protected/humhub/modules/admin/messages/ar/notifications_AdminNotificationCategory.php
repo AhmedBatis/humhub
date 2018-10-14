@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Administrative' => '',
-    'Receive Notifications for administrative events like available updates.' => '',
+    'Administrative' => 'الإدارية',
+    'Receive Notifications for administrative events like available updates.' => 'إستقبال تنبيهات للأحداث الإدارية مثل التحديثات المتاحة.',
 ];

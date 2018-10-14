@@ -17,11 +17,11 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'No purchased modules found!' => '',
-    'Register' => '',
-    'Third-party' => '',
-    'search for available modules online' => '',
-    'Installed' => 'تم التنصيب',
-    'No modules found!' => 'لا توجد موديولات!',
+    'No purchased modules found!' => 'لا يوجد موديولات مدفوعة!',
+    'Register' => 'تسجيل',
+    'Third-party' => 'طرف-ثالث',
+    'search for available modules online' => 'البحث عن الموديولات المتاحة',
+    'Installed' => 'مثبتة',
+    'No modules found!' => 'لا يوجد موديولات!',
     'Search' => 'بحث',
 ];

@@ -17,9 +17,9 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Notify from {appName}. You were added to the group.' => '',
-    'Notify from {appName}. You were removed from the group.' => '',
-    'There is a new HumHub Version ({version}) available.' => '',
-    '{displayName} added you to group {groupName}' => '',
-    '{displayName} removed you from group {groupName}' => '',
+    'Notify from {appName}. You were added to the group.' => 'تنبيه من {appName}. تمت إضافتك للمجموعة.',
+    'Notify from {appName}. You were removed from the group.' => 'تنبيه من {appName}. تمت إزالتك من المجموعة.',
+    'There is a new HumHub Version ({version}) available.' => 'تتوفر نسخة جديدة من هوم-هوب - نسخة رقم {version}.',
+    '{displayName} added you to group {groupName}' => 'قام {displayName} بإضافتك للمجموعة {groupName}',
+    '{displayName} removed you from group {groupName}' => 'قام {displayName} بإزالتك من المجموعة {groupName}',
 ];
